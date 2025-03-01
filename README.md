@@ -6,7 +6,7 @@ This project analyzes property sales data from Ames, Iowa, using **R-Studio** to
 
 ## Dataset
 The data comes from the [Ames Housing dataset](https://jse.amstat.org/v19n3/decock.pdf), which includes 80 variables describing different features of residential homes.
-- Data file: `ames_housing.csv`
+- Data file: `ames2000_NAfix.csv`
 
 ## Key Analysis Steps
 - Data cleaning and handling missing values.
